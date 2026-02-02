@@ -2,6 +2,12 @@
 
 Este repositorio contiene el sitio personal/portfolio minimalista hecho con Astro.
 
+🌐 **Sitio web**: [https://michifeli.github.io](https://michifeli.github.io)
+
+## Despliegue
+
+Este sitio se despliega automáticamente en GitHub Pages. Para más información sobre el proceso de despliegue, consulta [DEPLOYMENT.md](./DEPLOYMENT.md).
+
 ## Requisitos
 
 - [Node.js](https://nodejs.org/en) (>= 22.x)
